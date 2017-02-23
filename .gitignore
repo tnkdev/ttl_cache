@@ -1,0 +1,14 @@
+deps
+dist
+log
+ebin
+_rel
+.eunit
+.rebar
+\#*\#
+.\#*
+*~
+*.o
+*.beam
+
+
